@@ -1,10 +1,10 @@
-## You will make
+## Jij zult maken
 
 Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
+In Scratch worden karakters en objecten sprits genoemd. Deze verschijnen op het podium.
 
-You will:
+Dat zul je:
 
 - Add sprites and a **backdrop** to set up your project
 - Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
