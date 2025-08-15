@@ -114,11 +114,3 @@ Next, click on **File**, and then on **Save now** to save your project.
 If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 \--- /task ---
-=======
-## Step title
-
-\--- task ---
-
-\--- /task ---
-
-
